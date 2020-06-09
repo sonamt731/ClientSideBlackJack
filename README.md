@@ -23,3 +23,4 @@ The card game is a single hand with the following rules:
 Rules are from NYU AIT Course Instructions
 
 Must be completely client side!
+April 11, 2020
