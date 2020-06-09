@@ -1,0 +1,25 @@
+{
+  "name": "sonamt731-homework07",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyu-csci-ua-0480-008-spring-2020/sonamt731-homework07.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyu-csci-ua-0480-008-spring-2020/sonamt731-homework07/issues"
+  },
+  "homepage": "https://github.com/nyu-csci-ua-0480-008-spring-2020/sonamt731-homework07#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint-plugin-mocha": "^6.3.0"
+  }
+}

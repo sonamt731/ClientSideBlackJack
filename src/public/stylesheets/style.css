@@ -1,0 +1,88 @@
+body {
+	background-color: green;
+	text-align: center;
+	color: navy;
+	margin: 10px;
+}
+
+form {
+	text-align: center;
+    background-color: white;
+    border: 5px solid red;
+    font-size: 2em;
+    font-family: monospace;
+}
+
+#cardsP{
+	display: inline-block;
+}
+
+#cardsC{
+	display: inline-block;
+}
+#card{
+	background-image: url(front.jpeg);
+	height: 150px;
+	width: 100px;
+	background-color: white;
+	border: 3px black;
+	text-align: center;
+	margin-right: 15px;
+	float: left;
+}
+
+#blankcard{
+	background-image: url(back.jpg);
+	height: 150px;
+	width: 100px;
+	background-color: white;
+	border: 3px black;
+	text-align: center;
+	margin-right: 15px;
+	float: left;
+}
+
+.divB{
+	display: block;
+	margin-top: 50px;
+}
+
+h1{
+	color: #00008B;
+}
+
+h2{
+	color: red;
+}
+
+#hit {
+
+}
+
+#stand{
+	
+}
+
+#compScore{
+	background-color: darkseagreen;
+}
+
+#playerScore{
+	background-color: darkseagreen;
+}
+
+#compDiv{
+	border: .5px black;
+}
+
+#playerDiv{
+	border: .5px black;
+}
+
+.winner{
+	text-align:center;
+	background-color: #000099;
+	color: red;
+	font-size: 3em;
+	margin-top: 10px;
+}
